@@ -17,6 +17,17 @@
 #     - tag: Rails
 #   timeline-side: right
 
+
+- title: MIT International Science & Technology Initiatives (MISTI)
+  title-url: https://gsl.mit.edu/mit-global-startup-labs
+  date: Jun 2019 - Aug 2019
+  subtitle: Intern
+  tags:
+    - tag: Java
+    - tag: MIT Startup Framewok 
+    - tag: Django
+  timeline-side: left
+
 - title: Yo-Waste Ltd
   title-url: https://yowasteapp.com/
   date: Nov 2018 - Present
@@ -28,18 +39,16 @@
     - tag: Django
   timeline-side: right
 
-- title: MIT International Science & Technology Initiatives (MISTI)
-  title-url: https://gsl.mit.edu/mit-global-startup-labs
-  date: Jun 2019 - Aug 2019
-  subtitle: Intern
+- title: TechLeadAfrica
+  title-url: https://techleadafrica.com/
+  date: Aug 2018 - Present
+  subtitle: Blogger
   tags:
-    - tag: Java
-    - tag: MIT Startup Framewok 
-    - tag: Django
-  timeline-side: right
+    - tag: WordPress
+  timeline-side: left
 
 - title: Makerere University
   title-url: https://www.mak.ac.ug/
   date: Aug 2017 - Jan 2021(Expected)
   subtitle: B.Sc. Computer Science
-  timeline-side: left
+  timeline-side: right
