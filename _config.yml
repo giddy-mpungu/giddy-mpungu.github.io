@@ -115,6 +115,7 @@ google-analytics:
 
 plugins:
   - "jekyll-github-metadata"
+  - jekyll-sitemap
 
 exclude:
   [
