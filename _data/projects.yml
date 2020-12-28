@@ -56,4 +56,5 @@
 - name: Enock Lubowa's Website
   descr: "My personal website"
   demo: https://github.com/enocklubowa/enocklubowa.github.io
+  tags:
     - tag: Jekyll
