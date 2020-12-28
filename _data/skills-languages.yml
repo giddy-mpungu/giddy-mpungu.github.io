@@ -9,7 +9,7 @@
   weight: 5
 
 - name: HTML5
-  weight: 2
+  weight: 3
 
 - name: CSS
   weight: 2
@@ -19,3 +19,9 @@
 
 - name: SQL
   weight: 2
+
+- name: Kotlin
+  weight: 4
+
+- name: XML
+  weight: 4

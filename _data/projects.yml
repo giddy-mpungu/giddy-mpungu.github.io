@@ -13,21 +13,42 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Yo-Waste Customer App
+  descr: "Yo-Waste allows small businesses & households to meet zero waste goals by connecting them to our growing number of independent haulers & recycling businesses. The app allows customers to request & schedule for garbage collection services instantly and on on-demand."
+  demo: https://play.google.com/store/apps/details?id=com.yowasteapp.app
   tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
+    - tag: Android
+    - tag: Java
+    - tag: XML
+    - tag: Google Maps
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Yo-Waste Hauler App
+  descr: "An app for garbage haulers that guides them through all the pickUp locations and you can as well use a navigation feature to get turn by turn directions"
+  demo: https://play.google.com/store/apps/details?id=com.yowaste.yo_wastetrucks
   tags:
-    - tag: Python
-    - tag: Django
+    - tag: Android
+    - tag: Java
+    - tag: XML
+    - tag: Google Maps
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+- name: Click2Chat App
+  descr: "Click2Chat app allows sending messages to unsaved contacts"
+  demo: https://github.com/enocklubowa/Click2Chat
+  tags:
+    - tag: Android
+    - tag: Java
+    - tag: XML
+
+- name: Agric Product Listing App
+  descr: "An Android that allows farmers list their products for sale"
+  demo: https://github.com/enocklubowa/Agric-Product-Listing
+  tags:
+    - tag: Android
+    - tag: Java
+    - tag: XML
+    - tag: Firebase
+
+- name: TechLeadAfrica
+  descr: "A Technology blog that published how to guides, software and gadget reviews"
+  demo: https://techleadafrica.com/
+    - tag: Wordpress
