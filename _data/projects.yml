@@ -14,7 +14,7 @@
 #     - tag: Node
 
 - name: Yo-Waste Customer App
-  descr: "Yo-Waste allows small businesses & households to meet zero waste goals by connecting them to our growing number of independent haulers & recycling businesses. The app allows customers to request & schedule for garbage collection services instantly and on on-demand."
+  descr: "Yo-Waste Customer App allows small businesses & households to meet zero waste goals by connecting them to a growing number of independent haulers & recycling businesses. The app allows customers to request & schedule for garbage collection services instantly and on on-demand."
   demo: https://play.google.com/store/apps/details?id=com.yowasteapp.app
   tags:
     - tag: Android
@@ -23,7 +23,7 @@
     - tag: Google Maps
 
 - name: Yo-Waste Hauler App
-  descr: "An app for garbage haulers that guides them through all the pickUp locations and you can as well use a navigation feature to get turn by turn directions"
+  descr: "An app for garbage haulers that guides them through all the pickUp locations while servicing customers"
   demo: https://play.google.com/store/apps/details?id=com.yowaste.yo_wastetrucks
   tags:
     - tag: Android
@@ -32,7 +32,7 @@
     - tag: Google Maps
 
 - name: Click2Chat App
-  descr: "Click2Chat app allows sending messages to unsaved contacts"
+  descr: "Click2Chat app allows sending WhatsApp messages to unsaved contacts"
   demo: https://github.com/enocklubowa/Click2Chat
   tags:
     - tag: Android
@@ -40,7 +40,7 @@
     - tag: XML
 
 - name: Agric Product Listing App
-  descr: "An Android that allows farmers list their products for sale"
+  descr: "An Android App that allows farmers list their products for sale"
   demo: https://github.com/enocklubowa/Agric-Product-Listing
   tags:
     - tag: Android
@@ -49,12 +49,13 @@
     - tag: Firebase
 
 - name: TechLeadAfrica
-  descr: "A Technology blog that published how to guides, software and gadget reviews"
+  descr: "A blog that publishes Technolgy how-to guides, software reviews"
   demo: https://techleadafrica.com/
+  tags:
     - tag: Wordpress
 
-- name: Enock Lubowa's Website
-  descr: "My personal website"
+- name: My Personal website
+  descr: ""
   demo: https://github.com/enocklubowa/enocklubowa.github.io
   tags:
     - tag: Jekyll
