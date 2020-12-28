@@ -52,3 +52,8 @@
   descr: "A Technology blog that published how to guides, software and gadget reviews"
   demo: https://techleadafrica.com/
     - tag: Wordpress
+
+- name: Enock Lubowa's Website
+  descr: "My personal website"
+  demo: https://github.com/enocklubowa/enocklubowa.github.io
+    - tag: Jekyll
