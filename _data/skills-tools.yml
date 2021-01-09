@@ -23,9 +23,6 @@
 - name: Postman
   weight: 4
 
-- name: Android
-  weight: 5
-
 - name: mySQL
   weight: 4
 
