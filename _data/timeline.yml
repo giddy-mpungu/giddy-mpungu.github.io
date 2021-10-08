@@ -17,16 +17,16 @@
 #     - tag: Rails
 #   timeline-side: right
 
-
-- title: MIT International Science & Technology Initiatives (MISTI)
-  title-url: https://gsl.mit.edu/mit-global-startup-labs
-  date: Jun 2019 - Aug 2019
-  subtitle: Intern
+- title: Oopedia Technology Ltd
+  title-url: https://safelori.com/
+  date: April 2021 - Present
+  subtitle: Lead Engineer
   tags:
+    - tag: Android
     - tag: Java
-    - tag: MIT Startup Framewok 
-    - tag: Django
-  timeline-side: left
+    - tag: Python
+    - tag: Flask
+  timeline-side: right
 
 - title: Yo-Waste Ltd
   title-url: https://yowasteapp.com/
@@ -36,6 +36,16 @@
     - tag: Android
     - tag: Java
     - tag: Python
+    - tag: Django
+  timeline-side: left  
+
+- title: MIT International Science & Technology Initiatives (MISTI)
+  title-url: https://gsl.mit.edu/mit-global-startup-labs
+  date: Jun 2019 - Aug 2019
+  subtitle: Intern
+  tags:
+    - tag: Java
+    - tag: MIT Startup Framewok 
     - tag: Django
   timeline-side: right
 
