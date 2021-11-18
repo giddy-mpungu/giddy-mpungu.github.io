@@ -10,6 +10,3 @@
 
 - name: Kotlin
   weight: 2
-  
-- name: SQL
-  weight: 3
