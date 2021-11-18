@@ -8,21 +8,21 @@
 - name: Git
   weight: 4
 
-- name: Docker
-  weight: 2
-
-- name: Wordpress
-  weight: 3
+- name: Intellij
+  weight: 4
 
 - name: Linux
-  weight: 3
+  weight: 4
 
 - name: Android Studio
-  weight: 4
+  weight: 5
 
 - name: Postman
-  weight: 4
+  weight: 5
 
-- name: mySQL
-  weight: 4
+- name: GitHub
+  weight: 5
+  
+- name: DigitalOcean
+  weight: 3
 
