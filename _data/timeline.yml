@@ -17,23 +17,23 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: Oopedia Technology Ltd
+- title: SafeLori
   title-url: https://safelori.com/
   date: April 2021 - Present
   subtitle: Lead Engineer
   tags:
     - tag: Android
     - tag: Java
-    - tag: Python
-    - tag: Flask
+    - tag: Firebase
   timeline-side: right
 
 - title: Yo-Waste Ltd
   title-url: https://yowasteapp.com/
   date: Nov 2018 - Present
-  subtitle: Tech Lead & Software Engineer
+  subtitle: CTO
   tags:
     - tag: Android
+    - tag: Firebase
     - tag: Java
     - tag: Spring boot
   timeline-side: left  
@@ -60,4 +60,8 @@
   title-url: https://www.mak.ac.ug/
   date: Aug 2017 - May 2021
   subtitle: B.Sc. Computer Science
+  tags:
+    - tag: Data Structures & Algorithms
+    - tag: Object Oriented Programming
+    - tag: Computer Security
   timeline-side: right
