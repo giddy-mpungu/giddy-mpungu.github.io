@@ -31,6 +31,14 @@
     - tag: XML
     - tag: Google Maps
 
+- name: Spring common exceptions Library
+  descr: "A library that sets up the common exceptions encountered in a Spring boot project"
+  demo: https://github.com/enocklubowa/spring-common-exceptions
+  tags:
+    - tag: Spring MVC
+    - tag: Java
+    - tag: Spring boot
+
 - name: Click2Chat App
   descr: "Click2Chat app allows sending WhatsApp messages to unsaved contacts"
   demo: https://github.com/enocklubowa/Click2Chat
@@ -47,12 +55,6 @@
     - tag: Java
     - tag: XML
     - tag: Firebase
-
-- name: TechLeadAfrica
-  descr: "A blog that publishes Technolgy how-to guides, software reviews"
-  demo: https://techleadafrica.com/
-  tags:
-    - tag: Wordpress
 
 - name: My Personal website
   descr: ""
