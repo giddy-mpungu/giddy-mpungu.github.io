@@ -28,3 +28,6 @@
   
 - name: Maven
   weight: 4
+  
+- name: Wordpress
+  weight: 3
