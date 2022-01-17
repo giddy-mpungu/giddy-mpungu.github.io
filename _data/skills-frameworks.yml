@@ -13,9 +13,3 @@
 
 - name: Android
   weight: 5
-  
-- name: Firebase
-  weight: 5
-  
-- name: Wordpress
-  weight: 3  
