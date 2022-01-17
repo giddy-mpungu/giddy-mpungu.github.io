@@ -6,13 +6,16 @@
 #   weight: 5
 
 - name: Spring MVC
-  weight: 3
+  weight: 5
 
 - name: Spring Boot
-  weight: 3
+  weight: 5
 
 - name: Android
   weight: 5
   
 - name: Firebase
   weight: 5
+  
+- name: Wordpress
+  weight: 3  
