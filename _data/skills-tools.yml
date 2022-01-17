@@ -6,16 +6,10 @@
 #   weight: 5
 
 - name: Git
-  weight: 4
-
-- name: Intellij
-  weight: 4
+  weight: 5
 
 - name: Linux
   weight: 4
-
-- name: Android Studio
-  weight: 5
 
 - name: Postman
   weight: 5
@@ -29,3 +23,8 @@
 - name: Firebase
   weight: 5
 
+- name: GitHub Actions CI/CD
+  weight: 3
+  
+- name: Maven
+  weight: 4
