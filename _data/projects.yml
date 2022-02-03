@@ -38,6 +38,14 @@
     - tag: Spring MVC
     - tag: Java
     - tag: Spring boot
+    
+- name: Airtel money library
+  descr: "This is a java library for spring applications to ease integration of the Airtel Money API into Java applications. The complexities of the whole API are simplified into easily usable methods."
+  demo: https://github.com/enocklubowa/airtel-money-java
+  tags:
+    - tag: Spring MVC
+    - tag: Java
+    - tag: Spring boot    
 
 - name: Click2Chat App
   descr: "Click2Chat app allows sending WhatsApp messages to unsaved contacts"
