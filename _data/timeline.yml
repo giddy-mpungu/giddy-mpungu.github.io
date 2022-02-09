@@ -28,62 +28,62 @@
       - tag: Security Operations
     timeline-side: right
 
-- title: Ablestate LTD - SwiftGas Project
-  title-url: https://www.theablestate.com/
-  date: Mar 2020 - Jun 2020
-  subtitle: UI/UX Designer
-  tags:
-    - tag: UI
-    - tag: UX
-    - tag: User Story
-    - tag: Persona
-  timeline-side: left 
+  - title: Ablestate LTD - SwiftGas Project
+    title-url: https://www.theablestate.com/
+    date: Mar 2020 - Jun 2020
+    subtitle: UI/UX Designer
+    tags:
+      - tag: UI
+      - tag: UX
+      - tag: User Story
+      - tag: Persona
+    timeline-side: left 
 
-- title: Yo-Waste Ltd
-  title-url: https://yowasteapp.com/
-  date: Nov 2018 - Present
-  subtitle: Chief Operations Officer
-  tags:
-    - tag: Security
-    - tag: Sustainability
-    - tag: DevOps
-    - tag: Operations
-  timeline-side: right  
+  - title: Yo-Waste Ltd
+    title-url: https://yowasteapp.com/
+    date: Nov 2018 - Present
+    subtitle: Chief Operations Officer
+    tags:
+      - tag: Security
+      - tag: Sustainability
+      - tag: DevOps
+      - tag: Operations
+    timeline-side: right  
 
-- title: MIT International Science & Technology Initiatives (MISTI)
-  title-url: https://gsl.mit.edu/mit-global-startup-labs
-  date: Jun 2019 - Aug 2019
-  subtitle: Intern
-  tags:
-    - tag: Java
-    - tag: MIT Startup Framewok 
-    - tag: Django
-  timeline-side: left
+  - title: MIT International Science & Technology Initiatives (MISTI)
+    title-url: https://gsl.mit.edu/mit-global-startup-labs
+    date: Jun 2019 - Aug 2019
+    subtitle: Intern
+    tags:
+      - tag: Java
+      - tag: MIT Startup Framewok 
+      - tag: Django
+    timeline-side: left
 
-- title: Waste Masters Africa
-  title-url: https://www.facebook.com/groups/363536107613615/about/
-  date: May 2019 - Present
-  subtitle: Project Coordinator
-  tags:
-    - tag: Sustainability
-  timeline-side: right
+  - title: Waste Masters Africa
+    title-url: https://www.facebook.com/groups/363536107613615/about/
+    date: May 2019 - Present
+    subtitle: Project Coordinator
+    tags:
+      - tag: Sustainability
+    timeline-side: right
 
-title: Wingersoft LTD
-  title-url: https://wingersoft.co.ug/
-  date: Feb 2018 - Oct 2018
-  subtitle: Web designer
-  tags:
-    - tag: WordPress
-    - tag: Javascript
-  timeline-side: left
+  title: Wingersoft LTD
+    title-url: https://wingersoft.co.ug/
+    date: Feb 2018 - Oct 2018
+    subtitle: Web designer
+    tags:
+      - tag: WordPress
+      - tag: Javascript
+    timeline-side: left
 
 
-- title: Makerere University
-  title-url: https://www.mak.ac.ug/
-  date: Aug 2017 - May 2021
-  subtitle: B.Sc. Computer Science
-  tags:
-    - tag: Data Structures & Algorithms
-    - tag: Object Oriented Programming
-    - tag: Computer Security
-  timeline-side: right
+  - title: Makerere University
+    title-url: https://www.mak.ac.ug/
+    date: Aug 2017 - May 2021
+    subtitle: B.Sc. Computer Science
+    tags:
+      - tag: Data Structures & Algorithms
+      - tag: Object Oriented Programming
+      - tag: Computer Security
+    timeline-side: right
