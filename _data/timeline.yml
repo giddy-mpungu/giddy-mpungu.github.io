@@ -17,7 +17,7 @@
 #     - tag: Rails
 #   timeline-side: right
 
-  title: TryHackMe, HackTheBox, BlueTeamLabs
+- title: TryHackMe, HackTheBox, BlueTeamLabs
   title-url: https://tryhackme.com/
   date: April 2021 - Present
   subtitle: Cyber Security Engineer
@@ -28,7 +28,7 @@
     - tag: Security Operations
   timeline-side: right
 
-  title: Ablestate LTD - SwiftGas Project
+- title: Ablestate LTD - SwiftGas Project
   title-url: https://www.theablestate.com/
   date: Mar 2020 - Jun 2020
   subtitle: UI/UX Designer
@@ -39,7 +39,7 @@
     - tag: Persona
   timeline-side: left 
 
-  title: Yo-Waste Ltd
+- title: Yo-Waste Ltd
   title-url: https://yowasteapp.com/
   date: Nov 2018 - Present
   subtitle: Chief Operations Officer
@@ -50,7 +50,7 @@
     - tag: Operations
   timeline-side: right  
 
-  title: MIT International Science & Technology Initiatives (MISTI)
+- title: MIT International Science & Technology Initiatives (MISTI)
   title-url: https://gsl.mit.edu/mit-global-startup-labs
   date: Jun 2019 - Aug 2019
   subtitle: Intern
@@ -60,7 +60,7 @@
     - tag: Django
   timeline-side: left
 
-  title: Waste Masters Africa
+- title: Waste Masters Africa
   title-url: https://www.facebook.com/groups/363536107613615/about/
   date: May 2019 - Present
   subtitle: Project Coordinator
@@ -68,7 +68,7 @@
     - tag: Sustainability
   timeline-side: right
 
-  title: Wingersoft LTD
+- title: Wingersoft LTD
   title-url: https://wingersoft.co.ug/
   date: Feb 2018 - Oct 2018
   subtitle: Web designer
@@ -78,7 +78,7 @@
   timeline-side: left
 
 
-  title: Makerere University
+- title: Makerere University
   title-url: https://www.mak.ac.ug/
   date: Aug 2017 - May 2021
   subtitle: B.Sc. Computer Science
