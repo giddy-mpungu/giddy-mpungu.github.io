@@ -17,16 +17,16 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: TryHackMe, HackTheBox, BlueTeamLabs
-  title-url: https://tryhackme.com/
-  date: April 2021 - Present
-  subtitle: Cyber Security Engineer
-  tags:
-    - tag: Ethical Hacking
-    - tag: Reverse Engineering
-    - tag: Digital Forensics
-    - tag: Security Operations
-  timeline-side: right
+  - title: TryHackMe, HackTheBox, BlueTeamLabs
+    title-url: https://tryhackme.com/
+    date: April 2021 - Present
+    subtitle: Cyber Security Engineer
+    tags:
+      - tag: Ethical Hacking
+      - tag: Reverse Engineering
+      - tag: Digital Forensics
+      - tag: Security Operations
+    timeline-side: right
 
 - title: Ablestate LTD - SwiftGas Project
   title-url: https://www.theablestate.com/
