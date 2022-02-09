@@ -13,6 +13,24 @@
 #     - tag: AngularJS
 #     - tag: Node
 
+- name: Saabaza Web App
+  descr: "A web app that helps exporting farmers to be able to easily manage their documents and also acquire certification easily using the properly managed documents"
+  demo: https://github.com/giddy-mpungu/Saabaza_Web_App
+  tags:
+    - tag: Python
+    - tag: JavaScript
+    - tag: XML
+    - tag: Firebase
+
+- name: DijkstraAlgorithmForRouteOptimization
+  descr: "Using Dijkstra's algorithm to solve the shortest path problem."
+  demo: https://github.com/giddy-mpungu/DijkstraAlgorithmForRouteOptimization
+  tags:
+    - tag: Python
+    - tag: Algorithm
+    - tag: Google Maps
+    - tag: APIs
+
 - name: Yo-Waste Customer App
   descr: "Yo-Waste Customer App allows small businesses & households to meet zero waste goals by connecting them to a growing number of independent haulers & recycling businesses. The app allows customers to request & schedule for garbage collection services instantly and on on-demand."
   demo: https://play.google.com/store/apps/details?id=com.yowasteapp.app
@@ -31,33 +49,9 @@
     - tag: XML
     - tag: Google Maps
 
-- name: Spring common exceptions Library
-  descr: "A library that sets up the common exceptions encountered in a Spring boot project"
-  demo: https://github.com/enocklubowa/spring-common-exceptions
-  tags:
-    - tag: Spring MVC
-    - tag: Java
-    - tag: Spring boot
-    
-- name: Airtel money library
-  descr: "This is a java library for spring applications to ease integration of the Airtel Money API into Java applications. The complexities of the whole API are simplified into easily usable methods."
-  demo: https://github.com/enocklubowa/airtel-money-java
-  tags:
-    - tag: Spring MVC
-    - tag: Java
-    - tag: Spring boot    
-
-- name: Click2Chat App
-  descr: "Click2Chat app allows sending WhatsApp messages to unsaved contacts"
-  demo: https://github.com/enocklubowa/Click2Chat
-  tags:
-    - tag: Android
-    - tag: Java
-    - tag: XML
-
-- name: Agric Product Listing App
-  descr: "An Android App that allows farmers list their products for sale"
-  demo: https://github.com/enocklubowa/Agric-Product-Listing
+- name: CinemaSeatBookingAndManagement
+  descr: "A program that can be used by management of a cinema theater to assign and book seats, and sell tickets for performances"
+  demo: https://github.com/giddy-mpungu/CinemaSeatBookingAndManagement
   tags:
     - tag: Android
     - tag: Java
@@ -66,6 +60,6 @@
 
 - name: My Personal website
   descr: ""
-  demo: https://github.com/enocklubowa/enocklubowa.github.io
+  demo: https://github.com/giddy-mpungu/giddy-mpungu.github.io
   tags:
     - tag: Jekyll

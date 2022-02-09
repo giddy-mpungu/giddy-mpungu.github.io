@@ -2,7 +2,7 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Enock Lubowa
+title: Gideon Mpungu
 # description: This will be meta HTML tag content. This can be ignored.
 description: Personal website
 # baseurl: The subpath of your site
@@ -11,20 +11,20 @@ baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Enock Lubowa
+username: Gideon Mpungu
 blog_title: Blog
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: A Software Engineer
+typing_text: A Cyber Security Engineer
 # email: Your E-Mail address for the email button.
-email: lubowaenock34@gmail.com
+email: gmbugampungu@gmail.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: enocklubowa
-linkedin_username: enocklubowa
-twitter_username: itslubowa
-stack-overflow_username: 10123715/enock-lubowa
+github_username: giddy-mpungu
+linkedin_username: gideon-mpungu-a3384214a
+twitter_username: GiddyMpungu
+medium_username: giddy-mpungu
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-#about_me_description: <p>Hi, am Enock Lubowa a software engineer from in Kampala, Uganda.</p> I have over 2 years of experience in software development majorly Android, Java, and Python. I have used major features and libraries in Android for instance fragments, multithreading, Dagger for dependency injections, Picasso image library, Retrofit for network operations, and more… I have also created backend services with Spring boot and Django using the MySQL database.I am passionate about solving problems with technology and constantly look forward to self-improvement in terms of learning and working with people. I currently work at Yo-Waste where am a technology lead and a software engineer. I also do some writing in the overall technology space at TechLeadAfrica.
+#about_me_description: <p>Hi, am Gideon Mpungu a cyber security engineer from Kampala, Uganda.</p> I have over a year's experience in ethical hacking and cyber defense. I have used tools like BurpSuite, Mitre's ATT&RK, Steghide, Nmap, Photorec, to mention but a few. I also have some experience in software development majorly Java, and Python. I have used major features and libraries in Java like the Java Crytographt API, in Python for scripting and more… I have also created backend services with Spring boot and Django using the MySQL database.I am passionate about solving problems with technology and constantly look forward to self-improvement in terms of learning and working with people. I currently work at Yo-Waste where am an operations lead and a security engineer. I also do some writing in the security space on my medium page.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -53,7 +53,7 @@ show_timeline_card: true
 timeline_title: My Career
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://www.canva.com/design/DAEQeO3K1yw/_BF_1E-FvTIg1Aq_jRLcJw/view?utm_content=DAEQeO3K1yw&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu
+cv_download_link: https://docs.google.com/document/d/13ZbOVsswv2TrP40tzn1gS-YakIQGdsadBSqJgg5fNAs/edit?usp=sharing
 
 # PROJECTS SECTION
 # show_projects_card:
@@ -86,7 +86,7 @@ contact_description: Wanna get in touch with me? Hit me up via my social handles
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: enocklubowa/enocklubowa.github.io
+repository: giddy-mpungu/giddy-mpungu.github.io
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.

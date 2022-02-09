@@ -5,11 +5,11 @@
 # - name: Language
 #   weight: 5
 
-- name: Java
-  weight: 5
-
-- name: Kotlin
-  weight: 2
-  
 - name: Python
+  weight: 4
+
+- name: Java
+  weight: 3
+  
+- name: C
   weight: 2

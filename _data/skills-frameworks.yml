@@ -5,11 +5,20 @@
 # - name: Framework
 #   weight: 5
 
-- name: Spring MVC
+- name: Vulnerability Scanning
   weight: 5
 
-- name: Spring Boot
+- name: Privilege Escalation
   weight: 5
 
-- name: Android
+- name: Digital Forensics
+  weight: 5
+
+- name: Security Operations
+  weight: 5
+
+- name: Incident Response
+  weight: 5
+
+- name: Reverse Engineering
   weight: 5

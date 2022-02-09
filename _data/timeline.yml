@@ -17,27 +17,38 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: SafeLori
+- title: TryHackMe, HackTheBox, BlueTeamLabs
   title-url: https://safelori.com/
-  date: April 2021 - Dec 2021
-  subtitle: Android Engineer
+  date: April 2021 - Present
+  subtitle: Cyber Security Engineer
   tags:
-    - tag: Android
-    - tag: Java
-    - tag: Firebase
-    - tag: DigitalOcean
+    - tag: Ethical Hacking
+    - tag: Reverse Engineering
+    - tag: Digital Forensics
+    - tag: Security Operations
   timeline-side: right
+
+- title: Ablestate LTD - SwiftGas Project
+  title-url: https://yowasteapp.com/
+  date: Mar 2020 - Jun 2020
+  subtitle: UI/UX Designer
+  tags:
+    - tag: UI
+    - tag: UX
+    - tag: User Story
+    - tag: Persona
+  timeline-side: left 
 
 - title: Yo-Waste Ltd
   title-url: https://yowasteapp.com/
   date: Nov 2018 - Present
-  subtitle: Chief Technology Officer
+  subtitle: Chief Operations Officer
   tags:
-    - tag: Android
-    - tag: Firebase
-    - tag: Java
-    - tag: Spring boot
-  timeline-side: left  
+    - tag: Security
+    - tag: Sustainability
+    - tag: DevOps
+    - tag: Operations
+  timeline-side: right  
 
 - title: MIT International Science & Technology Initiatives (MISTI)
   title-url: https://gsl.mit.edu/mit-global-startup-labs
@@ -47,15 +58,25 @@
     - tag: Java
     - tag: MIT Startup Framewok 
     - tag: Django
+  timeline-side: left
+
+- title: Waste Masters Africa
+  title-url: https://www.facebook.com/groups/363536107613615/about/
+  date: May 2019 - Present
+  subtitle: Project Coordinator
+  tags:
+    - tag: Sustainability
   timeline-side: right
 
-- title: TechLeadAfrica
-  title-url: https://techleadafrica.com/
-  date: Aug 2018 - Jan 2021
-  subtitle: Blogger
+title: Wingersoft LTD
+  title-url: https://www.facebook.com/groups/363536107613615/about/
+  date: Feb 2018 - Oct 2018
+  subtitle: Web designer
   tags:
     - tag: WordPress
+    - tag: Javascript
   timeline-side: left
+
 
 - title: Makerere University
   title-url: https://www.mak.ac.ug/

@@ -9,25 +9,40 @@
   weight: 5
 
 - name: Linux
+  weight: 5
+
+- name: BurpSuite
+  weight: 5
+
+- name: WireShark
+  weight: 5
+
+- name: Metasploit
+  weight: 5
+
+- name: Tcpdump
+  weight: 5
+
+- name: Nmap
+  weight: 5
+
+- name: Nikto
   weight: 4
 
-- name: Postman
+- name: Remmina
   weight: 5
+
+- name: John the Ripper
+  weight: 4
 
 - name: GitHub
   weight: 5
-  
-- name: DigitalOcean
-  weight: 3
-  
+   
 - name: Firebase
-  weight: 5
+  weight: 2
 
 - name: GitHub Actions CI/CD
   weight: 3
-  
-- name: Maven
-  weight: 4
-  
+    
 - name: Wordpress
   weight: 3
