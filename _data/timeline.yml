@@ -17,9 +17,37 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: RENU (Research and Education Network for Uganda)
+  title-url: https://renu.ac.ug/
+  date: May 2022 - Present
+  subtitle: Security Analyst
+  tags:
+    - tag: SIEM
+    - tag: threat Intelligence & Analysis
+    - tag: Digital Forensics
+    - tag: Security Operations
+    - tag: Vulnerability Scanning
+    - tag: Penetration Testing
+    - tag: Sysetms Engineering & Administration
+    - tag: Software Development
+  timeline-side: right
+
+- title: Milima Security
+  title-url: https://milimatechnologies.com/
+  date: February 2022 - April 2022
+  subtitle: Security Analyst
+  tags:
+    - tag: Financial Fraud Investigations
+    - tag: Social Media Investigations
+    - tag: Digital Forensics
+    - tag: Security Operations
+    - tag: Vulnerability Scanning
+    - tag: Penetration Testing
+  timeline-side: left
+
 - title: TryHackMe, HackTheBox, BlueTeamLabs
   title-url: https://tryhackme.com/
-  date: April 2021 - Present
+  date: April 2021 - January 2022
   subtitle: Cyber Security Engineer
   tags:
     - tag: Ethical Hacking

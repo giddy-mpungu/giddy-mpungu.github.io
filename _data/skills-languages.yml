@@ -8,6 +8,15 @@
 - name: Python
   weight: 4
 
+- name: TypeScript
+  weight: 4
+
+- name: Vue
+  weight: 4
+
+- name: Bash
+  weight: 4
+
 - name: Java
   weight: 3
   

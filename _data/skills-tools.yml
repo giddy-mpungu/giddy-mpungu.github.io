@@ -29,6 +29,9 @@
 - name: Nikto
   weight: 4
 
+- name: Tableau
+  weight: 4  
+
 - name: Remmina
   weight: 5
 
@@ -46,3 +49,9 @@
     
 - name: Wordpress
   weight: 3
+
+- name: MISP
+  weight: 4
+
+- name: EnCase
+  weight: 4

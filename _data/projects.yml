@@ -13,6 +13,57 @@
 #     - tag: AngularJS
 #     - tag: Node
 
+- name: Threat Intelligence & Analysis
+  descr: "Helping organization(s) retrieve, analysize and report on threat intelligence from various sources to ensure security"
+  tags:
+    - tag: MISP
+    - tag: Team Cymru, Shadow server, CINSscore, etc.
+    - tag: OpenCTI
+    - tag: WayBackMachine, social media investigations.
+
+
+- name: Security information and event management (SIEM)
+  descr: "Helping organization(s) setup, monitor, track, and respond to events as seen from event logs in various tools"
+  tags:
+    - tag: Splunk
+    - tag: IDS
+    - tag: FleetDM
+    - tag: Hive.
+
+- name: Ransomware Investigations
+  descr: "Helping organization(s) follow the trail of cyber intelligence from hosts, networks, and users to contain, stop, recover, and report on ransomware incidents"
+  tags:
+    - tag: DeepBlue CLI
+    - tag: Windows / Linux logs
+    - tag: User interviews
+    - tag: Online tools like nomoreransomware, sandboxes, etc.
+
+- name: Financial Fraud Investigations
+  descr: "Helping clients and the authorities follow the trail of cyber intelligence and get to the bottom of fraud investigations"
+  tags:
+    - tag: Tableau
+    - tag: Call logs
+    - tag: Transactions logs
+    - tag: Social media
+
+- name: Peer Edge
+  descr: "A web app that for managing job orders and overall hiring in an organization in one place"
+  demo: https://peeredge.africa
+  tags:
+    - tag: Python Django
+    - tag: Vue.js
+    - tag: TypeScript
+    - tag: AWS Dev Ops
+
+- name: RENU Careers Portal
+  descr: "A web app that for managing job orders and overall hiring in an organization in one place"
+  demo: https://jobs.renu.ac.ug/careers
+  tags:
+    - tag: PHP
+    - tag: JavaScript
+    - tag: XML
+    - tag: Linux Virtualization
+
 - name: Saabaza Web App
   descr: "A web app that helps exporting farmers to be able to easily manage their documents and also acquire certification easily using the properly managed documents"
   demo: https://github.com/giddy-mpungu/Saabaza_Web_App
