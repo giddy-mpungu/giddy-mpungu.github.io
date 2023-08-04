@@ -5,6 +5,9 @@
 # - name: Git
 #   weight: 5
 
+- name: AWS & Azure Cloud
+  weight: 5
+
 - name: Git
   weight: 5
 
@@ -14,7 +17,7 @@
 - name: Splunk
   weight: 5
 
- - name: ELK
+- name: ELK
   weight: 5
 
 - name: BurpSuite
