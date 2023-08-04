@@ -17,6 +17,9 @@
 - name: Privilege Escalation
   weight: 5
 
+- name: Python Scripting for Automation
+  weight: 5
+
 - name: Digital Forensics
   weight: 5
 

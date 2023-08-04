@@ -11,6 +11,12 @@
 - name: Linux
   weight: 5
 
+- name: Splunk
+  weight: 5
+
+ - name: ELK
+  weight: 5
+
 - name: BurpSuite
   weight: 5
 
