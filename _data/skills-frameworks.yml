@@ -34,3 +34,6 @@
 
 - name: Commuication, Collaboration & Partnership
   weight: 5
+
+- name: AI & Data science research
+  weight: 5  

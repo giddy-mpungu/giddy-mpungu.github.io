@@ -17,10 +17,36 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: Google DeepMind Master's Scholar at Makerere University and Researcher
+  title-url: https://deepmind.google/about/education/
+  date: September 2023 - Present
+  subtitle: Security Analyst
+  tags:
+    - tag: Exploring AI for cybersecurity concepts like differential privacy
+    - tag: Writing AI algorithms
+    - tag: Building and working with datasets
+    - tag: AI research
+  timeline-side: right
+
+- title: PostBank Uganda LTD
+  title-url: https://postbank.co.ug/
+  date: October 2023 - Present
+  subtitle: ICT Security Officer
+  tags:
+    - tag: SIEM (InsightIDR, DarkTrace, WithSecure)
+    - tag: threat Intelligence & Analysis
+    - tag: Digital Forensics
+    - tag: Security Operations
+    - tag: Endpoint Security (Kaspersky, Microsoft Intune, Defender for Endpoint)
+    - tag: Penetration Testing
+    - tag: Scripting and automation
+    - tag: Security Awareness Training
+  timeline-side: left
+
 - title: RENU (Research and Education Network for Uganda)
   title-url: https://renu.ac.ug/
-  date: May 2022 - Present
-  subtitle: Security Analyst
+  date: May 2022 - October 2023
+  subtitle: Cybersecurity Engineer
   tags:
     - tag: SIEM
     - tag: threat Intelligence & Analysis
