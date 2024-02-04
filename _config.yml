@@ -15,7 +15,7 @@ username: Gideon Mpungu
 blog_title: Blog
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: A Cyber Security Engineer
+typing_text: A Cyber Security Engineer & AI Researcher
 # email: Your E-Mail address for the email button.
 email: gmbugampungu@gmail.com
 # For every social button you want to display, set your username or userid
@@ -81,7 +81,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Wanna get in touch with me? Hit me up via my social handles below
+contact_description: Wanna get in touch with me? Ping me via my social handles below
 
 # GITHUB-METADATA
 # Set this to your forked repository
