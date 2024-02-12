@@ -29,6 +29,9 @@
 - name: Metasploit
   weight: 5
 
+- name: Cybereason
+  weight: 5
+
 - name: Tcpdump
   weight: 5
 
@@ -41,17 +44,35 @@
 - name: Tableau
   weight: 4  
 
+- name: Terraform
+  weight: 5
+
 - name: Remmina
   weight: 5
+
+- name: AWS Security hub
+  weight: 5  
+
+- name: GuardDuty
+  weight: 5  
 
 - name: John the Ripper
   weight: 4
 
 - name: GitHub
   weight: 5
+
+- name: Github actions
+  weight: 5
+
+- name: Tenable.io
+  weight: 5    
    
 - name: Firebase
   weight: 2
+
+- name: AWS WAF
+  weight: 5
 
 - name: GitHub Actions CI/CD
   weight: 3

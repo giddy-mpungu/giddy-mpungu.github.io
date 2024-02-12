@@ -13,6 +13,14 @@
 #     - tag: AngularJS
 #     - tag: Node
 
+- name: Cloud Security (AWS)
+  descr: "Helping organization(s) setup cloud security infrastructure"
+  tags:
+    - tag: AWS Security
+    - tag: AWS security hub, GuardDuty, AWS WAF,  etc.
+    - tag: Cyberreason
+    - tag: Infrastructure as code, terraform..
+
 - name: Threat Intelligence & Analysis
   descr: "Helping organization(s) retrieve, analysize and report on threat intelligence from various sources to ensure security"
   tags:

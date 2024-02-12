@@ -11,6 +11,9 @@
 - name: Threat Analysis
   weight: 5
 
+- name: Cloud Security
+  weight: 5  
+
 - name: Vulnerability Scanning
   weight: 5
 
@@ -37,3 +40,6 @@
 
 - name: AI & Data science research
   weight: 5  
+
+- name: Terraform, Infrastructure as code
+  weight: 5   

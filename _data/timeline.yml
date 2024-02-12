@@ -36,8 +36,9 @@
     - tag: SIEM (InsightIDR, DarkTrace, WithSecure)
     - tag: threat Intelligence & Analysis
     - tag: Digital Forensics
+    - tag: Cloud Security (AWS Security)
     - tag: Security Operations
-    - tag: Endpoint Security (Kaspersky, Microsoft Intune, Defender for Endpoint)
+    - tag: Endpoint Security (Kaspersky, Microsoft Intune, Defender for Endpoint, Cybereason)
     - tag: Penetration Testing
     - tag: Scripting and automation
     - tag: Security Awareness Training
