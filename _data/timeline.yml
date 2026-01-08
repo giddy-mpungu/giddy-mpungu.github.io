@@ -19,7 +19,7 @@
 - title: The University of Texas at San Antonio
   title-url: https://future.utsa.edu/programs/master/cybersecurity-science/
   date: September 2025 - Present
-  subtitle: Student Grader
+  subtitle: Student Grader - Principles of Cybersecurity
   tags:
     - tag: Grade papers, quizzes, and assignments for the Principles of Cybersecurity course.
     - tag: Assist the professor with any other administrative tasks
@@ -32,6 +32,8 @@
   tags:
     - tag: Exploring practical attack and defense techniques for networks, systems and software
     - tag: Reverse engineering and anti-reverse engineering techniques
+    - tag: LLM jailbreaking and defense techniques
+    - tag: Cybersecurity frameworking and risk management, etc
   timeline-side: left
 
 - title: Google DeepMind Master's Scholar at Makerere University and Researcher
@@ -113,8 +115,8 @@
 
 - title: Yo-Waste Ltd
   title-url: https://yowasteapp.com/
-  date: Nov 2018 - Present
-  subtitle: Chief Operations Officer
+  date: Nov 2018 - May 2022
+  subtitle: Security & Operartions Analyst
   tags:
     - tag: Security
     - tag: Sustainability
@@ -134,7 +136,7 @@
 
 - title: Waste Masters Africa
   title-url: https://www.facebook.com/groups/363536107613615/about/
-  date: May 2019 - Present
+  date: May 2019 - March 2022
   subtitle: Project Coordinator
   tags:
     - tag: Sustainability
