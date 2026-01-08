@@ -16,6 +16,23 @@
 #     - tag: Ruby
 #     - tag: Rails
 #   timeline-side: right
+- title: The University of Texas at San Antonio
+  title-url: https://future.utsa.edu/programs/master/cybersecurity-science/
+  date: September 2025 - Present
+  subtitle: Student Grader
+  tags:
+    - tag: Grade papers, quizzes, and assignments for the Principles of Cybersecurity course.
+    - tag: Assist the professor with any other administrative tasks
+  timeline-side: right
+
+- title: The University of Texas at San Antonio
+  title-url: https://future.utsa.edu/programs/master/cybersecurity-science/
+  date: January 2025 - Present
+  subtitle: Graduate Student
+  tags:
+    - tag: Exploring practical attack and defense techniques for networks, systems and software
+    - tag: Reverse engineering and anti-reverse engineering techniques
+  timeline-side: left
 
 - title: Google DeepMind Master's Scholar at Makerere University and Researcher
   title-url: https://deepmind.google/about/education/
@@ -30,7 +47,7 @@
 
 - title: PostBank Uganda LTD
   title-url: https://postbank.co.ug/
-  date: October 2023 - Present
+  date: October 2023 - January 2025
   subtitle: ICT Security Officer
   tags:
     - tag: SIEM (InsightIDR, DarkTrace, WithSecure)
