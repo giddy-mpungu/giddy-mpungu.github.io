@@ -13,14 +13,14 @@ $font-family-numbers: "Josefin Sans", sans-serif;
 $font-size-base: 1rem !default;
 $font-size-h1: 2rem !default;
 $font-weight-strong: 600;
-$text-color: #e8f4f8;
-$bg-color: #0a1929; // Deep navy instead of gray
+$text-color: #f1f5f9;
+$bg-color: #1e293b; // Warmer dark slate
 $card-bg-color: linear-gradient(
   145deg,
-  rgba(14, 165, 233, 0.1) 15%,
-  rgba(10, 25, 41, 1) 80%
+  rgba(100, 116, 139, 0.15) 15%,
+  rgba(30, 41, 59, 1) 80%
 );
-$primary-color: #0ea5e9; // Bright cyan-blue
+$primary-color: #06b6d4; // Matrix green or #06b6d4 for cyan
 
 /* General */
 
